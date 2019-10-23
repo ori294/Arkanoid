@@ -1,0 +1,86 @@
+START_LEVEL
+level_name:Tel Aviv
+ball_velocities:45,7 48,7
+background:image(background_images/tel_aviv.jpg)
+paddle_speed:8
+paddle_width:160
+block_definitions:definitions/tel_aviv_block_definitions.txt
+blocks_start_x:25
+blocks_start_y:80
+row_height:25
+num_blocks:50
+START_BLOCKS
+-
+-aaaaaaaaaaaaa-
+-sssssssssssss-
+-ddddddddddddd-
+-fffffffffffff-
+-ggggggggggggg-
+-
+END_BLOCKS
+END_LEVEL
+
+START_LEVEL
+level_name:Ashkelon
+ball_velocities:45,7 48,7
+background:image(background_images/ashkelon.jpg)
+paddle_speed:12
+paddle_width:160
+block_definitions:definitions/ashkelon_block_definitions.txt
+blocks_start_x:20
+blocks_start_y:80
+row_height:25
+num_blocks:26
+START_BLOCKS
+-
+aaaaaaaaaaaaaaa
+sssssssssssssss
+-
+END_BLOCKS
+END_LEVEL
+
+START_LEVEL
+level_name: Western Wall
+ball_velocities:45,7 46,7
+background:image(background_images/western_wall.jpg)
+paddle_speed:10
+paddle_width:160
+block_definitions:definitions/western_wall_block_definitions.txt
+blocks_start_x:20
+blocks_start_y:30
+row_height:25
+num_blocks:135
+START_BLOCKS
+-
+ooooooooooooooo
+oyoyoyoyoyoyoyo
+obobobobobobobo
+obobobobobobobo
+obobobobobobobo
+obbbbbbbbbbbbbo
+ooooooobooooooo
+oooooobbboooooo
+bbbbbbbbbbbbbbb
+
+END_BLOCKS
+END_LEVEL
+
+START_LEVEL
+level_name:Tavor Mountain
+ball_velocities:-7,7 7,7
+background:image(background_images/tavor_mountain.jpg)
+paddle_speed:8
+paddle_width:160
+block_definitions:definitions/tavor_mountain_block_definitions.txt
+blocks_start_x:20
+blocks_start_y:80
+row_height:25
+num_blocks:30
+START_BLOCKS
+-------affddccc
+--------affddcc
+---------affddc
+----------affdd
+-----------affd
+END_BLOCKS
+END_LEVEL

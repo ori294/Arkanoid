@@ -1,0 +1,3 @@
+Main-Class: utilities.Ass7Game
+Class-Path: biuoop-1.4.jar resources
+
