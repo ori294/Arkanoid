@@ -10,8 +10,3 @@ make compile
 make jar
 make run
 ```
-Or, if you would like to run my compiled version:
-
-```bash
-java -jar ass5game.jar
-```
